@@ -7,13 +7,8 @@
 	版本：1.1.1
 	QQ:1061616449
 	邮箱：wuchaodzxx@126.com
-	博客：[http://www.cnblogs.com/wuchaodzxx](http://www.cnblogs.com/wuchaodzxx)
-	[Github:https://github.com/wuchaodzxx](https://github.com/wuchaodzxx)
-	[baidu](http://www.baidu.com)
-	[http://www.emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com)
-
+	博客：http://www.cnblogs.com/wuchaodzxx
 ## 开发日志
-
 ### 2018-05-27
 	完成软件雏形
 ### 2018-06-23
