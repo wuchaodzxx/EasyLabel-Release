@@ -9,6 +9,7 @@
 	邮箱：wuchaodzxx@126.com
 	![博客：http://www.cnblogs.com/wuchaodzxx](http://www.cnblogs.com/wuchaodzxx)
 	![Github:https://github.com/wuchaodzxx](https://github.com/wuchaodzxx)
+	![baidu](http://www.baidu.com)
 
 ## 开发日志
 
