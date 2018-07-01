@@ -1,14 +1,14 @@
 # EasyLabel
 基于QT的标注工具
 
-## 软件信息
+## 开发者信息
 
-	作者：吴超
+	作者：且听风吟
 	版本：1.1.1
 	QQ:1061616449
 	邮箱：wuchaodzxx@126.com
-	[博客：http://www.cnblogs.com/wuchaodzxx](http://www.cnblogs.com/wuchaodzxx)
-	[Github:https://github.com/wuchaodzxx](https://github.com/wuchaodzxx)
+	![博客：http://www.cnblogs.com/wuchaodzxx](http://www.cnblogs.com/wuchaodzxx)
+	![Github:https://github.com/wuchaodzxx](https://github.com/wuchaodzxx)
 
 ## 开发日志
 
